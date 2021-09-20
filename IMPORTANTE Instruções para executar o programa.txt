@@ -1,0 +1,2 @@
+Para o programa ler corretamente o arquivo cartas.txt, modifique o método inicializaCartas em TabuleiroControladorGeral. 
+Siga o exemplo do comentário que está lá. 
