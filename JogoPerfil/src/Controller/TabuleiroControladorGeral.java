@@ -62,7 +62,7 @@ public class TabuleiroControladorGeral {
 	}
 	//Monta o vetor de cartas, com base em uma arquivo txt.
 	public static void inicializaCartas() {
-		Path caminho = Paths.get("C:/Users/rober/Meu Drive/1. Estudos TI/GitHub/Outros semestres/Projeto Detalhado de Software/Trabalho final/Trabalho Final - Robertson da Silva Nascimento - 391242/cartas.txt"); //no meu computador ficou "C:/Users/rober/Documents/MEGAsync Downloads/1. UFC/SEMESTRE ATUAL/"
+		Path caminho = Paths.get("<Caminho do arquivo cartas.txt>"); //no meu computador ficou "C:/Users/rober/Documents/MEGAsync Downloads/1. UFC/SEMESTRE ATUAL/"
 											//+ "Projeto Detalhado de Software/Trabalho final/Entrega 3/cartas.txt"
 		try {
 
